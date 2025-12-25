@@ -148,8 +148,6 @@ These exclusions are **intentional**, not missing work.
 - Apply feature engineering to create predictive signals
 - Build machine learning models to predict views and revenue
 - Perform feature importance analysis to identify key growth drivers
-- Develop interactive dashboards for real-time performance monitoring
-- Extend analysis to multi-channel or cross-category comparisons
 
 ---
 
