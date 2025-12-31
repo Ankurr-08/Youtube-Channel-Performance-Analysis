@@ -1,6 +1,7 @@
 # 📊 YouTube Channel Performance Analysis
 
-🔗 **Live Tableau Dashboard:** https://public.tableau.com/views/YoutubePerformanceDashboard_17666662862580/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+🔗 **Live Tableau Dashboard:** https://public.tableau.com/views/YoutubePerformanceDashboard_17666662862580/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 📈 *Interactive dashboard analyzing YouTube views, engagement, revenue, subscriber growth, and publishing patterns.*
 
 ## 📌 Project Overview
