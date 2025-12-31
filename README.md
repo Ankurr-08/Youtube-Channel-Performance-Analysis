@@ -1,5 +1,8 @@
 # 📊 YouTube Channel Performance Analysis
 
+🔗 **Live Tableau Dashboard:** https://public.tableau.com/views/YoutubePerformanceDashboard_17666662862580/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
+📈 *Interactive dashboard analyzing YouTube views, engagement, revenue, subscriber growth, and publishing patterns.*
+
 ## 📌 Project Overview
 This project analyzes real YouTube video-level performance data to understand **what drives views, engagement, subscriber growth, and revenue**.  
 The focus of this project is **Exploratory Data Analysis (EDA)** and **business insights**, not machine learning.
